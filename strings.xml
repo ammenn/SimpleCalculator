@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="btn07" />
+    <string name="btn08" />
+    <string name="btn09" />
+    <string name="btnAdd" />
+    <string name="btn04" />
+    <string name="btn05" />
+    <string name="btn06" />
+    <string name="btnMinus" />
+    <string name="btn01" />
+    <string name="btn02" />
+    <string name="btn03" />
+    <string name="btnDivide" />
+    <string name="btnClear" />
+    <string name="btn00" />
+    <string name="btnDot" />
+    <string name="btnMultiply" />
+</resources>
